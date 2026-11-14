@@ -8,10 +8,10 @@
 
 | Name | Contribution |
 |------|--------------|
-| Noel D. Junio | _fill in_ |
-| Joemari Matt Ogama | _fill in_ |
-| Andrei Soriano | _fill in_ |
-| Siantil Noelyn Lobo | _fill in_ |
+| Noel D. Junio | _ReadMe and assets_ |
+| Joemari Matt Ogama | _javascript_ |
+| Andrei Soriano | _htmn_ |
+| Siantil Noelyn Lobo | _css |
 
 ## Game Objective
 
