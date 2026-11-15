@@ -2,7 +2,7 @@
 
 **Course:** CC104 – Data Structures and Algorithms (Course Term Project, Project 5)
 **Section:** BSIT WMT 2-2
-**Group:** _Group XX_
+**Group:** _Group 3_
 
 ## Group Members
 
@@ -10,7 +10,7 @@
 |------|--------------|
 | Noel D. Junio | _ReadMe and assets_ |
 | Joemari Matt Ogama | _javascript_ |
-| Andrei Soriano | _htmn_ |
+| Andrei Soriano | _html_ |
 | Siantil Noelyn Lobo | _css |
 
 ## Game Objective
